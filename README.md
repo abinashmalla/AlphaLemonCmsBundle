@@ -5,6 +5,7 @@ Symfony2 and Twitter Bootstrap frameworks.
 
 AlphaLemon CMS is designed to provide an easy an intuitive user-interface, to improve the
 website's content management experience.
+# Trinity-International-College
 
 
 [![Build Status](https://secure.travis-ci.org/alphalemon/AlphaLemonCmsBundle.png)](http://travis-ci.org/alphalemon/AlphaLemonCmsBundle)
